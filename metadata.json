@@ -1,0 +1,5 @@
+{
+  "name": "MangaVerse",
+  "description": "An elegant and modern web application for browsing and reading Manga, Manhwa, and Manhua. It features an AI-powered synopsis generator to provide summaries for your favorite series.",
+  "requestFramePermissions": []
+}
